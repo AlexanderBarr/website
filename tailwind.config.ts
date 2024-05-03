@@ -10,6 +10,7 @@ export default {
       },
       colors: {
         background: "#384D48",
+        slate: "#ACAD94",
       },
     },
   },
